@@ -38,9 +38,6 @@
 <a href="https://www.youtube.com/c/@s_rasith_munasinghe" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://www.topcoder.com/members/11618" target="_blank">
-<img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -51,19 +48,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,ts,java,git,github,linux,figma,arduino" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasithmunasinghe&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasithmunasinghe&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 

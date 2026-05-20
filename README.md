@@ -1,25 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rasith Munasinghe</h1>
-<h3 align="center">A passionate Web Developer and Brand Developer from Sri Lanka</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasith+Munasinghe;Web+Developer+%7C+Brand+Developer;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
+
+<h3>A passionate Web Developer and Brand Developer from Sri Lanka</h3>
+
+</div>
+
+---
+
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=rasithmunasinghe&show_icons=true&theme=tokyonight&hide_border=true" />
+
+### 🚀 About Me
 
 - 🔭 I’m currently working on **Procurement Pro App**
-
 - 🌱 I’m currently learning **OOP concepts, Mobile Development, AI Engineering**
-
-- 👨‍💻 All of my projects are available at [https://www.rasithmunasinghe.lk/projects/](https://www.rasithmunasinghe.lk/projects/)
-
+- 👨‍💻 All of my projects are available at  
+  **https://www.rasithmunasinghe.lk/projects/**
 - 📫 How to reach me **s.rasith.munasinghe@gmail.com**
-
 - ⚡ Fun fact **My Girlfriend rewarded me the Best Actor Award**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+---
+
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://dev.to/rasith_munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rasith_munasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/s.rasith.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s.rasith.m" height="30" width="40" /></a>
-<a href="https://instagram.com/s.rasith.munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.rasith.munasinghe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@s_rasith_munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@s_rasith_munasinghe" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/11618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="11618" height="30" width="40" /></a>
+<a href="https://dev.to/rasith_munasinghe" target="_blank">
+<img src="https://skillicons.dev/icons?i=devto" height="40"/>
+</a>
+<a href="https://fb.com/s.rasith.m" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://instagram.com/s.rasith.munasinghe" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/c/@s_rasith_munasinghe" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.topcoder.com/members/11618" target="_blank">
+<img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,ts,java,git,github,linux,figma,arduino" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasithmunasinghe&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasithmunasinghe&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Always+learning+%7C+Always+building+%F0%9F%9A%80;Turning+ideas+into+real+apps+%F0%9F%92%BB" />
+
+</div>
